@@ -27,3 +27,15 @@ add_executable(Q12 question12.cpp)
 add_executable(Q13 question13.cpp)
 
 add_executable(Q14 question14.cpp)
+
+add_executable(Q15 question15.cpp)
+
+add_executable(Q16 question16.cpp)
+
+add_executable(Q17 question17.cpp)
+
+add_executable(Q18 question18.cpp)
+
+add_executable(Q19 question19.cpp)
+
+add_executable(Q20 question20.cpp)
